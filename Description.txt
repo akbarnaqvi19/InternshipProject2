@@ -1,0 +1,15 @@
+Project 2:
+
+The project aims to classify different species of Iris flowers based on their characteristics
+The IRIS dataset is loaded to the project
+Data visualization is done through plots 
+
+A Decision Tree Classifier is employed 
+The Classifier model is trained on the IRIS dataset
+
+The Trained model is then saved as a (.pkl) file
+
+The Trained model is then called when the Testing code is run
+Input Features are taken from the user and feed to the Classifier
+
+Iris Species is Classified based on the input features and displayed
